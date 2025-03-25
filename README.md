@@ -9,4 +9,3 @@ Functionality:  • User can create to-do.
                 • User can filter to-do.
 
 
-  Project Link: https://fastapi-react-app-9hwo-jasdmtres-toshifkhan12s-projects.vercel.app/     
