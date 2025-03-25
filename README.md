@@ -7,3 +7,6 @@ Functionality:  • User can create to-do.
                 • User can toggle light or dark mode. 
                 • User can search to-do from search bar in header. 
                 • User can filter to-do.
+
+
+  Project Link: https://fastapi-react-app-9hwo-jasdmtres-toshifkhan12s-projects.vercel.app/     
